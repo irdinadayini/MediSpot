@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.MapNew" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here -->
+        <item name="colorPrimary">#c66f66</item>
+        <item name="colorPrimaryDark">#b54e44</item>
+
+    </style>
+
+    <style name="Theme.MapNew" parent="Base.Theme.MapNew">
+        <!-- Additional overrides for your app's theme -->
+    </style>
+</resources>

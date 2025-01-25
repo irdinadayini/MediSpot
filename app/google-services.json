@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269542895423",
+    "project_id": "mapnew-f78f8",
+    "storage_bucket": "mapnew-f78f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269542895423:android:4ff9a99650b1dfe0546d8a",
+        "android_client_info": {
+          "package_name": "com.example.mapnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5bGm0PP5H7FpQJ3HJiHiQcu8DGaeJGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
